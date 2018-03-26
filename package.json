@@ -1,0 +1,10 @@
+{
+  "name": "babel-plugin-mia-js-core-hot-cronjobs",
+  "description": "A Babel plugin to add webpack's hot module replacement listeners to mia.js cronjob modules.",
+  "version": "1.0.0",
+  "license": "MIT",
+  "repository": "github:moecre/babel-plugin-mia-js-core-hot-cronjobs",
+  "dependencies": {
+    "babel-core": "^6.26.0"
+  }
+}
